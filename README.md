@@ -12,5 +12,6 @@ Group Members:
 - Abhishek Kumar (akuma168@asu.edu | 1213040606)
 - Utsav Dusad (udusad@asu.edu | 1211211492)
 - Abdul Samad Khan (akhan51@asu.edu | 1213604741)
-- Rhythm Sharma (rsharm58@asu.edu | 1213231901)
+- Rhythm Sharma (rsharm58@asu.edu | 1213231901) 
+- Rachana Kashyap (rnkashya@asu.edu | 1213203236)
 
