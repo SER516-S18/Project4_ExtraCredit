@@ -105,10 +105,10 @@ public class ClientExpressionFaceView extends JPanel {
         renderFace(g);//calling renderFace function
         renderBody(g);//calling renderBody function
         renderEyes(g, eyeDirection, leftEyeBlink, rightEyeBlink);//calling renderEyes function
-        renderEyeBrows(g, raiseBrowVal, furrowBrowVal);
-        renderMouth(g, smile, clench, smirkLeft, smirkRight, laugh);
-        renderLeftLeg(g, legsMovement * 2F);
-        renderRightLeg(g, legsMovement * 2F);
+        renderEyeBrows(g, raiseBrowVal, furrowBrowVal);//calling renderEyeBrows
+        renderMouth(g, smile, clench, smirkLeft, smirkRight, laugh);//calling renderMouth
+        renderLeftLeg(g, legsMovement * 2F);//calling renderLeftLeg
+        renderRightLeg(g, legsMovement * 2F);//calling renderRightLeg
         renderLeftHand(g,  handsUp);
         renderRightHand(g,  handsUp);
 
