@@ -10,16 +10,16 @@ public interface DimensionConstants {
     public static final int PUPIL_SIZE = 3;//setting the PUPIL_SIZE to 3
     public static final int EYE_BROW_LEFT_X1 = 32;//setting the EYE_BROW_LEFT_X1 to 32
     public static final int EYE_BROW_LEFT_X2 = 45;//setting the EYE_BROW_LEFT_X2 to 45
-    public static final int EYE_BROW_RIGHT_X1 = 56;
-    public static final int EYE_BROW_RIGHT_X2 = 68;
-    public static final int EYE_BROW_Y_POSITION = 12;
-    public static final int MOUTH_Y_POSITION = 42;
-    public static final int NOSE_X_POSITION = 50;
-    public static final int NOSE_Y1_POSITION = 27;
-    public static final int NOSE_WIDTH = 8;
+    public static final int EYE_BROW_RIGHT_X1 = 56;//setting EYE_BROW_RIGHT_X1
+    public static final int EYE_BROW_RIGHT_X2 = 68;//setting EYE_BROW_RIGHT_X2
+    public static final int EYE_BROW_Y_POSITION = 12;//setting EYE_BROW_Y_POSITION
+    public static final int MOUTH_Y_POSITION = 42;//setting MOUTH_Y_POSITION
+    public static final int NOSE_X_POSITION = 50;//setting NOSE_X_POSITION
+    public static final int NOSE_Y1_POSITION = 27;//setting NOSE_Y1_POSITION
+    public static final int NOSE_WIDTH = 8;//setting NOSE_WIDTH
 
     public static final int FACE_X_COORDINATE = 37;//setting the FACE_X_COORDINATE to 37
     public static final int FACE_Y_COORDINATE = 27;//setting the FACE_Y_COORDINATE to 27
 
-    public static final int LOOK_LEFT_RIGHT_VAL = 2;
+    public static final int LOOK_LEFT_RIGHT_VAL = 2;//setting LOOK_LEFT_RIGHT_VAL to 2
 }
