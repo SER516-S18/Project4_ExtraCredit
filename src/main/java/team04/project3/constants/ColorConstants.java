@@ -1,5 +1,3 @@
-//package team04.project3.constants;
-
 import java.awt.*;
 
 /**
@@ -12,6 +10,6 @@ public interface ColorConstants {
     public static final Color BACKGROUND_GRAY = new Color(221,221,221);//set Background color to gray
 
     public static final Color INDICATOR_OFF = Color.DARK_GRAY;//set color of INDICATOR_OFF to GRAY color
-    public static final Color INDICATOR_ON_DIM = new Color(197, 224, 179);
-    public static final Color INDICATOR_ON_BRIGHT = new Color(168,208,141);
+    public static final Color INDICATOR_ON_DIM = new Color(197, 224, 179);//setting the indicator_on_dim color
+    public static final Color INDICATOR_ON_BRIGHT = new Color(168,208,141);//setting the indicator_on_bright color
 }
