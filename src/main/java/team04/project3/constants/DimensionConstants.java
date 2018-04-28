@@ -2,10 +2,10 @@ package team04.project3.constants;
 
 public interface DimensionConstants {
 
-    public static final int HEAD_RADIUS = 25;
-    public static final int EYE_RADIUS = 5;
-    public static final int LEFT_EYE_X_POSITION = 34;
-    public static final int RIGHT_EYE_X_POSITION = 59;
+    public static final int HEAD_RADIUS = 25;  //setting the HEAD_RADIUS to 25
+    public static final int EYE_RADIUS = 5;  //setting the EYE_RADIUS to 5
+    public static final int LEFT_EYE_X_POSITION = 34; //setting the LEFT_EYE_X_POSITION to 34
+    public static final int RIGHT_EYE_X_POSITION = 59;//setting the RIGHT_EYE_X_POSITION to 59
     public static final int EYE_Y_POSITION = 20;
     public static final int PUPIL_SIZE = 3;
     public static final int EYE_BROW_LEFT_X1 = 32;
