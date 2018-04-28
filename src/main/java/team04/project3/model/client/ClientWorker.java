@@ -69,7 +69,21 @@ public class ClientWorker implements Runnable {
         run = false;
     }
 
-   
+    /**
+     * Returns if the worker is running
+     * @return If the worker is running
+     */
+    public boolean isRunning() {
+        return run;
+    }
+
+    /**
+     * Returns if client is connected successfully to the server
+     * @return If the client is connected successfully
+     */
+    public boolean isConnected() {
+        return connected;
+    }
 
     /**
      * Shuts down the worker
