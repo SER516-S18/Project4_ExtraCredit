@@ -64,9 +64,9 @@ public class ClientExpressionFaceView extends JPanel {
         SCALE_X_FACTOR = width/100.0;
         SCALE_Y_FACTOR = height/100.0;
         
-        String eyeDirection = "";
-        boolean leftEyeBlink = false;
-        boolean rightEyeBlink = false;
+        String eyeDirection = "";    //Adding eyeDirection to update the values of the direction of the eye
+        boolean leftEyeBlink = false; //setting the initial value false for leftEyeBlink
+        boolean rightEyeBlink = false; //setting the initial value false for rightEyeBlink
 
         float raiseBrowVal = emostate.getExpression(Expression.BROW_RAISE);
         float furrowBrowVal = emostate.getExpression(Expression.BROW_FURROW);
