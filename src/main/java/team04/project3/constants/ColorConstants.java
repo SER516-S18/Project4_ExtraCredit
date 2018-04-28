@@ -1,4 +1,4 @@
-package team04.project3.constants;
+//package team04.project3.constants;
 
 import java.awt.*;
 
@@ -8,7 +8,7 @@ import java.awt.*;
  */
 
 public interface ColorConstants {
-    public static final Color BACKGROUND_PINK = new Color(236, 219, 219);
+    public static final Color BACKGROUND_PINK = new Color(236, 219, 219);// Background color set to pink
     public static final Color BACKGROUND_BLUE = new Color(207, 220, 240);
     public static final Color BACKGROUND_GRAY = new Color(221,221,221);
 
