@@ -3,10 +3,7 @@ package team04.project3.constants;
 import java.awt.*;
 
 /**
- * Class containing program-wide constant Fonts and Strings
- * @author David Henderson (dchende2@asu.edu)
- * @version 1.0
- * @since   2018-02-22 
+ * Class containing program-wide constant Fonts and Strings 
  */
 
 public interface TextConstants {
